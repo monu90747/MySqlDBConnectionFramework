@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/commonspace/!svn/ver/2839/KnowledgeShare/MySqlDbConnection/MySqlDemo/MySqlDBConnection.framework/Versions/A/Headers
+END
+MySqlStatement.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/commonspace/!svn/ver/2839/KnowledgeShare/MySqlDbConnection/MySqlDemo/MySqlDBConnection.framework/Versions/A/Headers/MySqlStatement.h
+END
+MySqlDBConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/commonspace/!svn/ver/2839/KnowledgeShare/MySqlDbConnection/MySqlDemo/MySqlDBConnection.framework/Versions/A/Headers/MySqlDBConnection.h
+END
+SQLAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/commonspace/!svn/ver/2839/KnowledgeShare/MySqlDbConnection/MySqlDemo/MySqlDBConnection.framework/Versions/A/Headers/SQLAdapter.h
+END
+DBAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/commonspace/!svn/ver/2839/KnowledgeShare/MySqlDbConnection/MySqlDemo/MySqlDBConnection.framework/Versions/A/Headers/DBAdapter.h
+END
+MySQLAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/commonspace/!svn/ver/2839/KnowledgeShare/MySqlDbConnection/MySqlDemo/MySqlDBConnection.framework/Versions/A/Headers/MySQLAdapter.h
+END
